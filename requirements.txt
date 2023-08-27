@@ -1,0 +1,8 @@
+deta<=1.2.0
+Pillow<=9.5.0
+python-dotenv<=1.0.0
+streamlit<=1.25.0
+streamlit_authenticator<=0.2.2
+streamlit_elements<=0.1.0
+streamlit_quill<=0.0.3
+streamlit_javascript <= 0.1.5
